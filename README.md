@@ -1,1 +1,1 @@
-# one_page
+# one_page Simple Design
